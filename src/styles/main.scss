@@ -1,7 +1,23 @@
-@import "utils";
-@import "fonts";
-@import "typography";
+@import "./utils/vars";
+@import "./utils/reset";
+@import "./utils/normalize";
+@import "./utils/extends";
+@import "./utils/mixins";
+@import "./utils/fonts";
 
-body {
-  background: $c-gray;
-}
+@import "./blocks/header.scss";
+@import "./blocks/logo.scss";
+@import "./blocks/burger-toggler.scss";
+@import "./blocks/nav-burger.scss";
+@import "./blocks/nav-desktop.scss";
+@import "./blocks/body.scss";
+@import "./blocks/main-block.scss";
+@import "./blocks/gear.scss";
+@import "./blocks/video.scss";
+@import "./blocks/future.scss";
+@import "./blocks/technology.scss";
+@import "./blocks/quote.scss";
+@import "./blocks/features.scss";
+@import "./blocks/contacts.scss";
+@import "./blocks/input-text.scss";
+@import "./blocks/footer.scss";
