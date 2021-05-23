@@ -8,4 +8,4 @@
 
 ## Description
 landing page for real estate company
-- [DEMO LINK](https://nazarmatsevych.github.io/Kickstarter-landing-page/)
+- [DEMO LINK](https://nazarmatsevych.github.io/kickstarter-landing-page/)
