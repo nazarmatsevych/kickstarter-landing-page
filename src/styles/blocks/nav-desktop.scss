@@ -2,7 +2,7 @@
   display: none;
 
   @media (min-width: $deviceChangerDesktop) {
-    position: sticky;
+    position: relative;
     top: 0;
     // left: 0px;
     // right: 0px;

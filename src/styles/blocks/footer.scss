@@ -19,8 +19,13 @@
     display: block;
     width: 24px;
     height: 20px;
+    transition-duration: 300ms;
 
     @include backgroundImage("../images/header/gotop.svg");
+
+    &:hover {
+      transform: scale(1.4);
+    }
   }
 
   &__icon-wrapper {
